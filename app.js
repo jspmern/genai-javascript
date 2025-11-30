@@ -22,6 +22,7 @@ export const getInvokeGroq= async()=>{
         }
     ],
     model: "llama-3.1-8b-instant",
+    response_format:{type:"json_object"}
     // temperature: 0.7,
     // max_completion_tokens:1,
     // frequency_penalty:0,
