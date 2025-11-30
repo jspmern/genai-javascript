@@ -1,0 +1,3 @@
+👉 structure outpout how to acheive and best way with example and theroy
+https://console.groq.com/docs/structured-outputs
+https://openai.com/index/introducing-structured-outputs-in-the-api/
