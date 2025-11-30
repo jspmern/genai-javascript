@@ -1,0 +1,22 @@
+{
+  "name": "genai_utsav",
+  "version": "1.0.0",
+  "description": "for genai ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspmern/genai-javascript.git"
+  },
+  "author": "utsav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jspmern/genai-javascript/issues"
+  },
+  "homepage": "https://github.com/jspmern/genai-javascript#readme",
+  "dependencies": {
+    "groq-sdk": "^0.37.0"
+  }
+}
