@@ -1,3 +1,10 @@
 👉 structure outpout how to acheive and best way with example and theroy
 https://console.groq.com/docs/structured-outputs
 https://openai.com/index/introducing-structured-outputs-in-the-api/
+
+for serching api we are using tavily
+https://www.tavily.com/
+https://docs.tavily.com/documentation/quickstart
+
+for tool calling
+https://console.groq.com/docs/tool-use/local-tool-calling
